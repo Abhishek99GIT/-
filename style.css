@@ -1,0 +1,29 @@
+.heading{
+    text-align: left;
+}
+.container .Submit{
+    width: 100px;
+    padding: auto;
+    font-size:medium;
+}
+.container{
+    text-align: center;
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;  
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    /* Adjust as needed */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
